@@ -2,7 +2,7 @@
 
 ## 🛠 Tecnologias utilizadas:
 
-- [Flutter](https://www.flutter.com)
+- [Flutter](https://flutter.dev/)
 
 ## 💻 Sobre o projeto
 
