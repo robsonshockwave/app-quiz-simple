@@ -1,2 +1,17 @@
-# app_quiz_simple
-Um app de quiz simples criado em Flutter. Será que você consegue acertar as respostas? xD
+<h2 align="center">QUIZ</h2>
+
+## 🛠 Tecnologias utilizadas:
+
+- [Flutter](https://www.flutter.com)
+
+## 💻 Sobre o projeto
+
+Um simples aplicativo na qual contém algumas perguntas em que o usuário terá que adivinhar.
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
+
+Feito com ♥ por Robson!
